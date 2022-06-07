@@ -14,7 +14,7 @@ Som medarbeider og teammedlem er jeg lojal, en som liker å hjelpe andre og gi a
 * Infrastruktur nettverk: Fortinet, Extreme, Checkpoint
 * Databaser: MSSQL, PostgreSQL
 * Scripting: Powershell, Bash
-* IaC: Ansible, Terraform
+* IaC: Ansible, GitHub, Terraform
 * Zero Trust: CloudFlare
 
 ### Arbeidserfaring
