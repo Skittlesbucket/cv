@@ -1,4 +1,5 @@
 ## Arne S. B. Krossbakken
+* 05.12.1977
 * Ekrekroken 61, 1356 Bekkestua
 * arne@krossbakken.com
 * +47 936 00 863
