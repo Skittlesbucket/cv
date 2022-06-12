@@ -1,8 +1,8 @@
 ## Arne S. B. Krossbakken
-* 05.12.1977
 * Ekrekroken 61, 1356 Bekkestua
 * arne@krossbakken.com
 * +47 936 00 863
+* 05.12.1977
 
 ### Sammendrag
 Jeg er en entusiastisk, proaktiv, systematisk og løsningsorientert person som evner å kommunisere godt med både tekniske spesialister og forretningssiden. Gjennom mine 10+ år i Bouvet har jeg vært involvert i utallige prosesser som jeg har fulgt gjennom hele syklusen, med tett oppfølging av leverandører, forhandlinger og sikre at ting blir gjort til rett tid. Jeg er veldig bevisst på at IT-løsninger skal gi nytte og verdi – helst for alle i verdikjeden. 
