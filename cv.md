@@ -18,7 +18,7 @@ Som medarbeider og teammedlem er jeg lojal, en som liker å hjelpe andre og gi a
 * Zero Trust: CloudFlare
 
 ### Arbeidserfaring
-#### 2012-2022          Bouvet, IT Drift og Sikkerhet
+#### 2012-Dags dato          Bouvet, IT Drift og Sikkerhet
 
 Større prosjekter jeg har utført/deltatt i hos Bouvet:
 
@@ -59,3 +59,14 @@ Som sivilarbeider i IT avdelingen til Bydel Gamle Oslo ble jeg brukt som en vanl
 ### Utdannelse
 
 * 1998-2005	Bachelor i ingeniørfag, Datateknikk, Høgskolen i Buskerud / Høgskolen i Oslo
+
+
+
+		Jeg fullførte graden min på HiO etter fullført siviltjeneste hos IT-avdelingen til Bydel Gamle Oslo. Det var der brikkene falt på plass og jeg skjønte at det var drift 
+
+### Kurs og sertifiseringer
+* 2020 - Sesam grunnkurs, Bouvet
+* 2017 - PostgreSQL Advanced DBA, RedPill Linpro
+* 2016 - FortiGate I + II, Insoft/Avantis
+* 2013 - Practical Ethical Hacking Base, Crayon
+* 2009 - MCITP 2008 Enterprise Administrator 
