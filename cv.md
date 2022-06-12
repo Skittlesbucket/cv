@@ -18,6 +18,7 @@ Som medarbeider og teammedlem er jeg lojal, en som liker å hjelpe andre og gi a
 * Zero Trust: CloudFlare
 
 ### Arbeidserfaring
+
 #### 2012-Dags dato          Bouvet, IT Drift og Sikkerhet
 
 Større prosjekter jeg har utført/deltatt i hos Bouvet:
@@ -39,30 +40,23 @@ Diverse oppgaver som krever tilstedeværelse i kunders lokaler:
 
 #### 2006-2007         TeleComputing Norway, Support spesialist – Applications.
 2de linje support:
+Feilsøking og -retting av problemer med applikasjoner i Citrix terminalserver miljø.
+Oppgraderinger av applikasjoner på terminalservere/backend servere. 
 
-    Feilsøking og -retting av problemer med applikasjoner i Citrix terminalserver miljø.
-    Oppgraderinger av applikasjoner på terminalservere/backend servere. 
-
-2005-2006         TeleComputing Norway, Servicedesk medarbeider.
-
+#### 2005-2006         TeleComputing Norway, Servicedesk medarbeider.
 1te linje support:
+Besvare supporthendvendelser via telefon. Vi hadde fulle admin rettigheter på alle kunders Citrix miljø slik at ca 80% av sakene ble løst ved første henvendelse. Større feil ble eskalert videre til rett avdeling. 
 
-    Besvare supporthendvendelser via telefon. Vi hadde fulle admin rettigheter på alle kunders Citrix miljø slik at ca 80% av sakene ble løst ved første henvendelse. Større feil ble eskalert videre til rett avdeling. 
-
-2002-2004         Bydel Gamle Oslo, IT konsulent (sivilarbeider).
-
+#### 2002-2004         Bydel Gamle Oslo, IT konsulent (sivilarbeider).
 Som sivilarbeider i IT avdelingen til Bydel Gamle Oslo ble jeg brukt som en vanlig konsulent:
+Onsiteoppdrag for skoler, barnehager, sosialtjenesten og andre kommunale enheter. Test av kommunikasjon, feilsøking på- og oppsett av Windows klienter, printproblematikk og installasjon av utstyr var hovedoppgavene.
 
-    Onsiteoppdrag for skoler, barnehager, sosialtjenesten og andre kommunale enheter. Test av kommunikasjon, feilsøking på- og oppsett av Windows klienter, printproblematikk og installasj                    on av utstyr var hovedoppgavene.
-    Leid inn en måned etter avtjent verneplikt.
 
 ### Utdannelse
 
 * 1998-2005	Bachelor i ingeniørfag, Datateknikk, Høgskolen i Buskerud / Høgskolen i Oslo
+Jeg brukte så lang tid på å fullføre studiet da det tunge programmeringsfokuset ikke var en god match for meg. Brikkene falt først på plass da jeg var i siviltjeneste hos IT avdelingen til Bydel Gamle Oslo og jeg skjønte at det var drift jeg skulle jobbe med. Etter endt tjeneste var jeg motivert nok til å fullføre graden ved HiO.
 
-
-
-		Jeg fullførte graden min på HiO etter fullført siviltjeneste hos IT-avdelingen til Bydel Gamle Oslo. Det var der brikkene falt på plass og jeg skjønte at det var drift 
 
 ### Kurs og sertifiseringer
 * 2020 - Sesam grunnkurs, Bouvet
