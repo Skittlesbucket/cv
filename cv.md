@@ -10,6 +10,7 @@ Jeg er en entusiastisk, proaktiv, systematisk og løsningsorientert person som e
 Som medarbeider og teammedlem er jeg lojal, en som liker å hjelpe andre og gi av meg selv og trives best i et allsidig team. Jeg er pragmatisk der jeg trenger å være det og liker å se løsninger heller enn problemer. Jeg setter meg raskt inn i nye ting og utvikler kontinuerlig min kompetanse, der jeg de siste årene har hatt stort fokus på sikkerhet.
 
 ### Kompetanseoversikt
+---
 * Cloud: Azure / Office365, GCP, AWS
 * Infrastruktur servere: Nutanix, Hyper-V, VMWare
 * Infrastruktur nettverk: Fortinet, Extreme, Checkpoint
@@ -17,10 +18,11 @@ Som medarbeider og teammedlem er jeg lojal, en som liker å hjelpe andre og gi a
 * Scripting: Powershell, Bash
 * IaC: Ansible, GitHub, Terraform
 * Zero Trust: CloudFlare
+* Operativsystem: Linux, Windows, MacOS
 
 ### Arbeidserfaring
-
-#### 2012-Dags dato, Bouvet, IT Drift og Sikkerhet
+---
+#### 2012-Dags dato, Bouvet, IT Drift og Sikkerhet.
 
 Større prosjekter jeg har utført/deltatt i hos Bouvet:
 
