@@ -33,10 +33,10 @@ Større prosjekter jeg har utført/deltatt i hos Bouvet:
 
 #### 2007-2012, TeleComputing Norway, Onsite konsulent.
 Diverse oppgaver som krever tilstedeværelse i kunders lokaler:
-•	Faste oppdrag på drift av IT miljø. Den største kunden har 6 Win 2008 servere (kjører bla Exchange, SQL og terminal services), SAN, tapebibliotek for backup, Sonicwall firewall, 50 brukere på lokasjon og det tilsvarende hos datterselskap i Sverige og Danmark som jobber på terminalserver over VPN linjer.
-•	Deltar i diverse prosjektarbeid f.eks ved implementering av nye kunder. Det kan være ting som befaring av lokaler, ned- og oppkobling av komunikasjonutstyr, ut kopiering av data og endringer som må gjøres på klienter/skrivere.
-•	Diverse support oppdrag der saker ikke kan løses over telefon/sentralt.
-•	Vaktordning. Tilgjengelig for onsite oppdrag og hos kunder utover ordinær arbeidstid. (7-22, hver 6te uke) 
+* Faste oppdrag på drift av IT miljø. Den største kunden har 6 Win 2008 servere (kjører bla Exchange, SQL og terminal services), SAN, tapebibliotek for backup, Sonicwall firewall, 50 brukere på lokasjon og det tilsvarende hos datterselskap i Sverige og Danmark som jobber på terminalserver over VPN linjer.
+* Deltar i diverse prosjektarbeid f.eks ved implementering av nye kunder. Det kan være ting som befaring av lokaler, ned- og oppkobling av komunikasjonutstyr, ut kopiering av data og endringer som må gjøres på klienter/skrivere.
+* Diverse support oppdrag der saker ikke kan løses over telefon/sentralt.
+Vaktordning. Tilgjengelig for onsite oppdrag og hos kunder utover ordinær arbeidstid. (7-22, hver 6te uke) 
 
 #### 2006-2007, TeleComputing Norway, Support spesialist – Applications.
 2de linje support:
