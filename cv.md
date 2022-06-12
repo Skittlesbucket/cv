@@ -4,10 +4,13 @@
 * +47 936 00 863
 * 05.12.1977
 
+
 ### Sammendrag
+---
 Jeg er en entusiastisk, proaktiv, systematisk og løsningsorientert person som evner å kommunisere godt med både tekniske spesialister og forretningssiden. Gjennom mine 10+ år i Bouvet har jeg vært involvert i utallige prosesser som jeg har fulgt gjennom hele syklusen, med tett oppfølging av leverandører, forhandlinger og sikre at ting blir gjort til rett tid. Jeg er veldig bevisst på at IT-løsninger skal gi nytte og verdi – helst for alle i verdikjeden. 
 
 Som medarbeider og teammedlem er jeg lojal, en som liker å hjelpe andre og gi av meg selv og trives best i et allsidig team. Jeg er pragmatisk der jeg trenger å være det og liker å se løsninger heller enn problemer. Jeg setter meg raskt inn i nye ting og utvikler kontinuerlig min kompetanse, der jeg de siste årene har hatt stort fokus på sikkerhet.
+
 
 ### Kompetanseoversikt
 ---
@@ -19,6 +22,7 @@ Som medarbeider og teammedlem er jeg lojal, en som liker å hjelpe andre og gi a
 * IaC: Ansible, GitHub, Terraform
 * Zero Trust: CloudFlare
 * Operativsystem: Linux, Windows, MacOS
+
 
 ### Arbeidserfaring
 ---
@@ -56,12 +60,13 @@ Onsiteoppdrag for skoler, barnehager, sosialtjenesten og andre kommunale enheter
 
 
 ### Utdannelse
-
+---
 * 1998-2005, Bachelor i ingeniørfag, Datateknikk, Høgskolen i Buskerud / Høgskolen i Oslo.  
  Jeg brukte så lang tid på å fullføre studiet da det tunge programmeringsfokuset ikke var en god match for meg. Brikkene falt først på plass da jeg var i siviltjeneste hos IT avdelingen til Bydel Gamle Oslo og jeg skjønte at det var drift jeg skulle jobbe med. Etter endt tjeneste tok jeg nok studiepoeng ved HiO til å fullføre graden.
 
 
 ### Kurs og sertifiseringer
+---
 * 2020 - Sesam grunnkurs, Bouvet
 * 2017 - PostgreSQL Advanced DBA, RedPill Linpro
 * 2016 - FortiGate I + II, Insoft/Avantis
