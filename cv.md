@@ -54,8 +54,8 @@ Onsiteoppdrag for skoler, barnehager, sosialtjenesten og andre kommunale enheter
 
 ### Utdannelse
 
-* 1998-2005, Bachelor i ingeniørfag, Datateknikk, Høgskolen i Buskerud / Høgskolen i Oslo
-Jeg brukte så lang tid på å fullføre studiet da det tunge programmeringsfokuset ikke var en god match for meg. Brikkene falt først på plass da jeg var i siviltjeneste hos IT avdelingen til Bydel Gamle Oslo og jeg skjønte at det var drift jeg skulle jobbe med. Etter endt tjeneste var jeg motivert nok til å fullføre graden ved HiO.
+* 1998-2005, Bachelor i ingeniørfag, Datateknikk, Høgskolen i Buskerud / Høgskolen i Oslo.
+ Jeg brukte så lang tid på å fullføre studiet da det tunge programmeringsfokuset ikke var en god match for meg. Brikkene falt først på plass da jeg var i siviltjeneste hos IT avdelingen til Bydel Gamle Oslo og jeg skjønte at det var drift jeg skulle jobbe med. Etter endt tjeneste var jeg motivert nok til å fullføre graden ved HiO.
 
 
 ### Kurs og sertifiseringer
